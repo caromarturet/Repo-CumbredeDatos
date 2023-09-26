@@ -6,4 +6,4 @@ Para su exposición, se utilizará un Powerpoint con textos resumidos del .pdf, 
 
 El lenguaje utilizado para desarrollar el mapa fue Python, utilizando librerías pandas y folium. El código .py también se encuentra subido.
 
-**Alumna:** Carolina Graciela Marturet
+**Desarrollado por:** Carolina Graciela Marturet
